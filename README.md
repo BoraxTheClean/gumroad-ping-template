@@ -1,0 +1,2 @@
+# Gumroad Ping Template
+
